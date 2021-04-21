@@ -5,5 +5,5 @@ which sets the correct bits for a instruction.
 
 The program instructions are in the mif file I created.
 
-The program was tested in a vurtial test bench as where I could inspect all of the bits
+The program was written and tested in a virtual test bench in ModelSim. There I could inspect all of the bits
 for each instruction. I then transferred the code over to an FPGA.
