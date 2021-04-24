@@ -1,6 +1,5 @@
 # IL1331_VHDL_Design
-The code in this repo is from the last lab of the course IL1331 VHDL Design.
-I have written control logic for a tiny CISC CPU. The design includes a ROM
+This is control logic for a tiny CISC CPU. The design includes a ROM
 which sets the correct bits for a instruction.
 
 The program instructions are in the mif file I created.
